@@ -147,7 +147,7 @@ body {
 .chat li {
   margin-bottom: 10px;
   padding-bottom: 5px;
-  border-bottom: 1px dotted #ffffff;
+  border-bottom: 1px dotted #999999;
 }
 .chat li.left .chat-body {
   margin-left: 60px;
@@ -235,7 +235,7 @@ table.dataTable thead .sorting:after {
   margin: 15px 0;
 }
 .huge {
-  font-size: 25px;
+  font-size: 40px;
 }
 .panel-green {
   border-color: #5cb85c;
@@ -359,7 +359,7 @@ table.dataTable thead .sorting:after {
   font-size: 1.4em;
   line-height: 50px;
   color: #fff;
-  background-color: #ffffff;
+  background-color: #999999;
 }
 .timeline > li.timeline-inverted > .timeline-panel {
   float: right;
